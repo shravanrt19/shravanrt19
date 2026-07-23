@@ -1,53 +1,87 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/b39c60bf-a6a1-4989-8a41-cd7556b9ac3e.gif" width="100%" alt="pixel-art-readme-gifs">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=SHRAVAN%20THAKUR&fontSize=42&fontColor=FF2D78&fontAlign=50&fontAlignY=55&fontFamily=Press+Start+2P" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:1A0B2E,100:2D0B4E&height=200&section=header&text=SHRAVAN%20THAKUR&fontSize=36&fontColor=00FFF9&fontAlign=38&animation=twinkling&fontFamily=Press+Start+2P&desc=AI%20%2F%20ML%20Engineer%20%7C%20Document%20Science%20%26%20Grad&descAlign=58&descSize=15&descColor=FF00FF" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+Building+deep+learning+systems...;%3E+Document+intelligence+%2B+LLM+pipelines;%3E+Top+10+of+76+teams+%40+HACKOCOLYPSE+2.0;%3E+90%25+accuracy+across+17%2C386+samples" />
+<br/>
+
+![CGPA](https://img.shields.io/badge/CGPA-9.22%2F10.0-FF2D78?style=for-the-badge&labelColor=2D0B4E)
+![Location](https://img.shields.io/badge/LOCATION-NAVI_MUMBAI-00E5FF?style=for-the-badge&labelColor=2D0B4E)
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-2D0B4E?style=for-the-badge&labelColor=1A0B2E)
+![Role](https://img.shields.io/badge/-AI%20ENGINEER%20%40%20DOC.INTEL-FFD400?style=for-the-badge&labelColor=1A0B2E)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1A0B2E?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/shravan-thakur-706017295/)
+[![Connect](https://img.shields.io/badge/CONNECT-00E5FF?style=for-the-badge&logoColor=1A0B2E&labelColor=00E5FF&color=00E5FF)](https://www.linkedin.com/in/shravan-thakur-706017295/)
+[![Email](https://img.shields.io/badge/EMAIL-1A0B2E?style=for-the-badge&logo=gmail&logoColor=FF2D78)](mailto:shravanrt192005@gmail.com)
+[![Contact](https://img.shields.io/badge/CONTACT-FF2D78?style=for-the-badge&labelColor=FF2D78&color=FF2D78)](mailto:shravanrt192005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-1A0B2E?style=for-the-badge&logo=github&logoColor=FFD400)](https://github.com/shravanrt19)
+[![Follow](https://img.shields.io/badge/FOLLOW-FFD400?style=for-the-badge&labelColor=FFD400&color=FFD400)](https://github.com/shravanrt19)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shravanrt19&style=for-the-badge&color=FF2D78&labelColor=1A0B2E&label=PLAYER+VISITS)
+![Followers](https://img.shields.io/github/followers/shravanrt19?style=for-the-badge&label=FOLLOWERS&color=00E5FF&labelColor=1A0B2E)
+
+<img src="assets/divider.svg" width="100%"/>
 
 </div>
 
-## `> ABOUT_ME.exe`
-
-```yaml
-name: Shravan Raju Thakur
-role: AI Engineering — Document Intelligence & Intelligent Systems
-location: Panvel, Navi Mumbai, India
-education: B.Sc. Data Science @ Pillai HOC College of Arts, Commerce and Science — CGPA 9.22
-focus: Deep learning ensembles, LLM pipelines, document forgery detection
-also: Asia Book of Records holder — 233km open water relay swim (4 days)
-currently: Looking for AI Engineering roles in document intelligence
-```
-
 ## `> TECH_STACK.dll`
 
-**Languages & Core**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=00FFF9&labelColor=1A0B2E)
-![SQL](https://img.shields.io/badge/SQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=FF00FF&labelColor=1A0B2E)
-![R](https://img.shields.io/badge/R-0D0221?style=for-the-badge&logo=r&logoColor=39FF14&labelColor=1A0B2E)
+![Skills](https://skillicons.dev/icons?i=py,fastapi,docker,postgres,nextjs,git,github,vercel&theme=dark)
 
-**Machine Learning & Data**
+</div>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0D0221?style=for-the-badge&logo=pytorch&logoColor=FF00FF&labelColor=1A0B2E)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D0221?style=for-the-badge&logo=scikitlearn&logoColor=00FFF9&labelColor=1A0B2E)
-![Pandas](https://img.shields.io/badge/Pandas-0D0221?style=for-the-badge&logo=pandas&logoColor=39FF14&labelColor=1A0B2E)
-![NumPy](https://img.shields.io/badge/NumPy-0D0221?style=for-the-badge&logo=numpy&logoColor=FFE700&labelColor=1A0B2E)
+<details open>
+<summary><b>🧠 DEEP LEARNING & COMPUTER VISION</b></summary>
+<br>
 
-**Backend & Deployment**
+![PyTorch](https://img.shields.io/badge/PYTORCH-FF2D78?style=for-the-badge&labelColor=1A0B2E)
+![EfficientNet](https://img.shields.io/badge/EFFICIENTNET--B0-00E5FF?style=for-the-badge&labelColor=1A0B2E)
+![OpenCV](https://img.shields.io/badge/OPENCV-FFD400?style=for-the-badge&labelColor=1A0B2E)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-9B5DE5?style=for-the-badge&labelColor=1A0B2E)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0D0221?style=for-the-badge&logo=fastapi&logoColor=39FF14&labelColor=1A0B2E)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D0221?style=for-the-badge&logo=streamlit&logoColor=FF00FF&labelColor=1A0B2E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=00FFF9&labelColor=1A0B2E)
-![Docker](https://img.shields.io/badge/Docker-0D0221?style=for-the-badge&logo=docker&logoColor=00FFF9&labelColor=1A0B2E)
-![Next.js](https://img.shields.io/badge/Next.js-0D0221?style=for-the-badge&logo=nextdotjs&logoColor=FFE700&labelColor=1A0B2E)
+</details>
 
-**Visualization & Tools**
+<details open>
+<summary><b>🤖 LLM & GENERATIVE AI</b></summary>
+<br>
 
-![Power BI](https://img.shields.io/badge/Power_BI-0D0221?style=for-the-badge&logo=powerbi&logoColor=FFE700&labelColor=1A0B2E)
-![Tableau](https://img.shields.io/badge/Tableau-0D0221?style=for-the-badge&logo=tableau&logoColor=00FFF9&labelColor=1A0B2E)
-![Git](https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=FF00FF&labelColor=1A0B2E)
+![Llama3](https://img.shields.io/badge/LLAMA_3-FF2D78?style=for-the-badge&labelColor=1A0B2E)
+![Groq](https://img.shields.io/badge/GROQ_API-00E5FF?style=for-the-badge&labelColor=1A0B2E)
+![RAG](https://img.shields.io/badge/RAG-FFD400?style=for-the-badge&labelColor=1A0B2E)
+![VectorDB](https://img.shields.io/badge/VECTOR_DBS-9B5DE5?style=for-the-badge&labelColor=1A0B2E)
+
+</details>
+
+<details open>
+<summary><b>💻 BACKEND & DEPLOYMENT</b></summary>
+<br>
+
+![FastAPI](https://img.shields.io/badge/FASTAPI-FF2D78?style=for-the-badge&labelColor=1A0B2E)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-00E5FF?style=for-the-badge&labelColor=1A0B2E)
+![Docker](https://img.shields.io/badge/DOCKER-FFD400?style=for-the-badge&labelColor=1A0B2E)
+![NextJS](https://img.shields.io/badge/NEXT.JS-9B5DE5?style=for-the-badge&labelColor=1A0B2E)
+![Railway](https://img.shields.io/badge/RAILWAY-FF2D78?style=for-the-badge&labelColor=1A0B2E)
+![Vercel](https://img.shields.io/badge/VERCEL-00E5FF?style=for-the-badge&labelColor=1A0B2E)
+
+</details>
+
+<details open>
+<summary><b>📊 BI & VISUALIZATION</b></summary>
+<br>
+
+![PowerBI](https://img.shields.io/badge/POWER_BI-FFD400?style=for-the-badge&labelColor=1A0B2E)
+![Tableau](https://img.shields.io/badge/TABLEAU-9B5DE5?style=for-the-badge&labelColor=1A0B2E)
+![Streamlit](https://img.shields.io/badge/STREAMLIT-FF2D78?style=for-the-badge&labelColor=1A0B2E)
+![Plotly](https://img.shields.io/badge/PLOTLY-00E5FF?style=for-the-badge&labelColor=1A0B2E)
+
+</details>
+
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
 ## `> FEATURED_PROJECTS.json`
 
@@ -79,7 +113,7 @@ End-to-end LLM pipeline — Llama 3 + Groq API — that identifies competitors, 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🕹️ AI Safety Zone Mapper — Guardian Mode
 **🏆 Top 10 of 76 teams, final round of 6 — HACKOCOLYPSE 2.0**
@@ -89,59 +123,94 @@ Led a 4-person team to build a women's safety app: GPS risk scoring across 500+ 
 `Python` `Dijkstra` `GPS APIs`
 
 </td>
-<td width="50%" valign="top">
-
-### 🎓 Currently Exploring
-
-- Document intelligence & intelligent systems
-- LLM-driven agent pipelines
-- Production ML deployment
-
-</td>
 </tr>
 </table>
 
-## `> STATS.log`
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+
+## `> ACHIEVEMENTS.LOG`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shravanrt19&show_icons=true&hide_border=true&bg_color=0D0221&title_color=00FFF9&icon_color=FF00FF&text_color=39FF14&ring_color=FFE700" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanrt19&hide_border=true&background=0D0221&ring=FF00FF&fire=FFE700&currStreakLabel=00FFF9&sideLabels=39FF14&dates=8B7FD1" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanrt19&layout=compact&hide_border=true&bg_color=0D0221&title_color=00FFF9&text_color=39FF14" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=shravanrt19&theme=dracula&no-frame=true&row=1&column=6" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanrt19&theme=react-dark&hide_border=true&bg_color=0D0221&color=00FFF9&line=FF00FF&point=FFE700" width="100%"/>
+![Hackathon](https://img.shields.io/badge/HACKOCOLYPSE_2.0-TOP_10_OF_76-FF2D78?style=for-the-badge&labelColor=1A0B2E)
+![MS](https://img.shields.io/badge/MICROSOFT_%2B_LINKEDIN-DATA_ANALYSIS-00E5FF?style=for-the-badge&labelColor=1A0B2E)
+![Streamlit](https://img.shields.io/badge/STREAMLIT-FOUNDATIONS-FFD400?style=for-the-badge&labelColor=1A0B2E)
+![PrimeAI](https://img.shields.io/badge/APNA_COLLEGE-PRIME_AI-9B5DE5?style=for-the-badge&labelColor=1A0B2E)
+![Swim](https://img.shields.io/badge/ASIA_BOOK_OF_RECORDS-233KM_SWIM-FF2D78?style=for-the-badge&labelColor=1A0B2E)
 
 </div>
+
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+
+## `> STATS.DAT`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shravanrt19&show_icons=true&hide_border=true&bg_color=1A0B2E&title_color=FF2D78&icon_color=00E5FF&text_color=EDEDED&ring_color=FF2D78" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanrt19&hide_border=true&background=1A0B2E&ring=FF2D78&fire=FFD400&currStreakLabel=00E5FF&sideLabels=EDEDED&dates=9B5DE5" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanrt19&layout=default&hide_border=true&bg_color=1A0B2E&title_color=FF2D78&text_color=EDEDED&langs_count=6" width="60%"/>
+
+</div>
+
+### `> TROPHY_ROOM.SAV`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shravanrt19&theme=dracula&no-frame=true&row=1&column=6" width="100%"/>
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+
+## `> PIXEL_SNAKE.GAME`
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="snake contribution animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="pixel snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-> ⚠️ The snake animation above needs a one-time GitHub Actions setup — see the note below the README.
+</div>
 
-## `> ACHIEVEMENTS.cfg`
+> 🐍 Needs a one-time GitHub Actions workflow in a repo named `shravanrt19/shravanrt19` — see [Platane/snk](https://github.com/Platane/snk).
 
-- 🏆 Top 10 of 76 teams, final round of 6 — **HACKOCOLYPSE 2.0** (AI Safety Zone Mapper, team lead)
-- 📜 Career Essentials in Data Analysis — Microsoft & LinkedIn Learning
-- 📜 Streamlit Foundations — Streamlit
-- 📜 Prime AI — Apna College
-- 🏊 Asia Book of Records / India Book of Records / Best of India Book of Records — 233km open water relay (4 days)
-- 🥇 Raigad Bhushan Puraskar (age 11) · State-level 400m freestyle champion · competed in water polo and triathlons
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-## `> CONNECT.sh`
+## `> NPC_WISDOM.TXT`
+
+> *"The question of whether machines can think is about as relevant as the question of whether submarines can swim."*
+>
+> — Edsger W. Dijkstra
+
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+
+## `> CURRENT_MISSION.SAV`
+
+```json
+{
+  "learning": ["Explainable AI", "Model deployment at scale", "Vector databases"],
+  "building": ["AI Competitive Intelligence Platform v2", "Document Forgery Detector improvements"],
+  "exploring": ["Agentic LLM pipelines", "Production MLOps", "Multi-modal document AI"],
+  "open_to": ["AI/ML collaborations", "Research internships", "Open-source projects"]
+}
+```
+
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+
+## `> GAME_OVER? CONTINUE?`
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/EMAIL-0D0221?style=for-the-badge&logo=gmail&logoColor=FF00FF&labelColor=1A0B2E)](mailto:shravanrt192005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D0221?style=for-the-badge&logo=linkedin&logoColor=00FFF9&labelColor=1A0B2E)](https://www.linkedin.com/in/shravan-thakur-706017295/)
-[![GitHub](https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=1A0B2E)](https://github.com/shravanrt19)
-
-![Profile Views](https://komarev.com/ghpvc/?username=shravanrt19&style=for-the-badge&color=ff00ff&labelcolor=0d0221)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0B4E,50:1A0B2E,100:0D0221&height=100&section=footer" width="100%"/>
+[![Gmail](https://img.shields.io/badge/GMAIL-1A0B2E?style=for-the-badge&logo=gmail&logoColor=FF2D78)](mailto:shravanrt192005@gmail.com)
+![Handle](https://img.shields.io/badge/SHRAVANRT19-FF2D78?style=for-the-badge&labelColor=FF2D78&color=FF2D78)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1A0B2E?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/shravan-thakur-706017295/)
+[![Connect](https://img.shields.io/badge/CONNECT-00E5FF?style=for-the-badge&labelColor=00E5FF&color=00E5FF)](https://www.linkedin.com/in/shravan-thakur-706017295/)
+[![GitHub](https://img.shields.io/badge/GITHUB-1A0B2E?style=for-the-badge&logo=github&logoColor=FFD400)](https://github.com/shravanrt19)
+[![Follow](https://img.shields.io/badge/FOLLOW-FFD400?style=for-the-badge&labelColor=FFD400&color=FFD400)](https://github.com/shravanrt19)
 
 </div>
+<svg width="800" height="20" viewBox="0 0 800 20" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="20" cy="10" r="3.5" fill="#FF2D78"/><circle cx="60" cy="10" r="3.5" fill="#00E5FF"/><circle cx="100" cy="10" r="3.5" fill="#FFD400"/><circle cx="140" cy="10" r="3.5" fill="#FF2D78"/><circle cx="180" cy="10" r="3.5" fill="#00E5FF"/><circle cx="220" cy="10" r="3.5" fill="#FFD400"/><circle cx="260" cy="10" r="3.5" fill="#FF2D78"/><circle cx="300" cy="10" r="3.5" fill="#00E5FF"/><circle cx="340" cy="10" r="3.5" fill="#FFD400"/><circle cx="380" cy="10" r="3.5" fill="#FF2D78"/><circle cx="420" cy="10" r="3.5" fill="#00E5FF"/><circle cx="460" cy="10" r="3.5" fill="#FFD400"/><circle cx="500" cy="10" r="3.5" fill="#FF2D78"/><circle cx="540" cy="10" r="3.5" fill="#00E5FF"/><circle cx="580" cy="10" r="3.5" fill="#FFD400"/><circle cx="620" cy="10" r="3.5" fill="#FF2D78"/><circle cx="660" cy="10" r="3.5" fill="#00E5FF"/><circle cx="700" cy="10" r="3.5" fill="#FFD400"/><circle cx="740" cy="10" r="3.5" fill="#FF2D78"/><circle cx="780" cy="10" r="3.5" fill="#00E5FF"/>
+</svg>
