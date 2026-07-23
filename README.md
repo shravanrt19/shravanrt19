@@ -211,6 +211,3 @@ Led a 4-person team to build a women's safety app: GPS risk scoring across 500+ 
 [![Follow](https://img.shields.io/badge/FOLLOW-FFD400?style=for-the-badge&labelColor=FFD400&color=FFD400)](https://github.com/shravanrt19)
 
 </div>
-<svg width="800" height="20" viewBox="0 0 800 20" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="20" cy="10" r="3.5" fill="#FF2D78"/><circle cx="60" cy="10" r="3.5" fill="#00E5FF"/><circle cx="100" cy="10" r="3.5" fill="#FFD400"/><circle cx="140" cy="10" r="3.5" fill="#FF2D78"/><circle cx="180" cy="10" r="3.5" fill="#00E5FF"/><circle cx="220" cy="10" r="3.5" fill="#FFD400"/><circle cx="260" cy="10" r="3.5" fill="#FF2D78"/><circle cx="300" cy="10" r="3.5" fill="#00E5FF"/><circle cx="340" cy="10" r="3.5" fill="#FFD400"/><circle cx="380" cy="10" r="3.5" fill="#FF2D78"/><circle cx="420" cy="10" r="3.5" fill="#00E5FF"/><circle cx="460" cy="10" r="3.5" fill="#FFD400"/><circle cx="500" cy="10" r="3.5" fill="#FF2D78"/><circle cx="540" cy="10" r="3.5" fill="#00E5FF"/><circle cx="580" cy="10" r="3.5" fill="#FFD400"/><circle cx="620" cy="10" r="3.5" fill="#FF2D78"/><circle cx="660" cy="10" r="3.5" fill="#00E5FF"/><circle cx="700" cy="10" r="3.5" fill="#FFD400"/><circle cx="740" cy="10" r="3.5" fill="#FF2D78"/><circle cx="780" cy="10" r="3.5" fill="#00E5FF"/>
-</svg>
