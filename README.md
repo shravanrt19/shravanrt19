@@ -2,6 +2,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/b39c60bf-a6a1-4989-8a41-cd7556b9ac3e.gif" width="100%" alt="pixel-art-readme-gifs">
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=SHRAVAN%20THAKUR&fontSize=42&fontColor=FF2D78&fontAlign=50&fontAlignY=55&fontFamily=Press+Start+2P" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=%3E+PLAYER%3A+AI+ENGINEER+(LVL+6);%3E+CLASS%3A+DOCUMENT+INTELLIGENCE;%3E+GUILD%3A+LLM+%2B+DEEP+LEARNING" />
+
 <img src="assets/divider.svg" width="100%"/>
 
 <br/>
