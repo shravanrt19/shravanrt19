@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FFD23F?style=for-the-badge&logo=shieldsdotio&logoColor=black&labelColor=2D0140" />
 
 <a href="https://www.linkedin.com/in/shravan-thakur-706017295/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=2D0140" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-FF206E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D0140" /></a>
+<a href="mailto:shravanrt192005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-FF206E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D0140" /></a>
 <a href="https://github.com/shravanrt19"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-FFD23F?style=for-the-badge&logo=github&logoColor=black&labelColor=2D0140" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=shravanrt19&color=ff206e&style=for-the-badge&label=PLAYER+VISITS&labelColor=2D0140" />
@@ -298,7 +298,7 @@ open_to:    ["AI/ML collaborations", "Research internships", "Open-source projec
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+GAME_OVER%3F+CONTINUE%3F" alt="connect"/>
 
 <span style="color:#FFD23F;">✉</span>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-SHRAVANRT19-FF206E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D0140" /></a>
+<a href="mailto:shravanrt192005@gmail.com"><img src="https://img.shields.io/badge/GMAIL-SHRAVANRT19-FF206E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D0140" /></a>
 <a href="https://www.linkedin.com/in/shravan-thakur-706017295/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=2D0140" /></a>
 <a href="https://github.com/shravanrt19"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-FFD23F?style=for-the-badge&logo=github&logoColor=black&labelColor=2D0140" /></a>
 
