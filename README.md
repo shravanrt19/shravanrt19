@@ -2,11 +2,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/b39c60bf-a6a1-4989-8a41-cd7556b9ac3e.gif" width="100%" alt="pixel banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=SHRAVAN%20THAKUR&fontSize=42&fontColor=FF2D78&fontAlignY=55&fontFamily=Press+Start+2P" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=750&height=90&lines=%3E+PLAYER%3A+AI+ENGINEER;%3E+CLASS%3A+DOCUMENT+INTELLIGENCE;%3E+GUILD%3A+LLM+%2B+DEEP+LEARNING;%3E+STATUS%3A+OPEN+TO+WORK" alt="typing"/>
-
-<img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/hero.svg" width="100%" alt="Shravan Thakur"/>
 
 <img src="https://img.shields.io/badge/CGPA-9.22%2F10.0-FF2D78?style=for-the-badge&labelColor=2D0B4E"/>
 <img src="https://img.shields.io/badge/LOCATION-NAVI_MUMBAI-00E5FF?style=for-the-badge&labelColor=2D0B4E"/>
@@ -21,7 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/divider.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=500&height=40&lines=%3E+ABOUT_ME.EXE" alt="ABOUT_ME.EXE"/>
+<img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/h_about.svg" width="100%" alt="h_about"/>
 
 </div>
 
@@ -56,7 +52,7 @@ I build AI systems end to end — from raw data and model architecture to evalua
 
 <img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/divider.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=500&height=40&lines=%3E+INVENTORY.SYS" alt="INVENTORY.SYS"/>
+<img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/h_inventory.svg" width="100%" alt="h_inventory"/>
 
 <img src="https://skillicons.dev/icons?i=py,fastapi,docker,postgres,nextjs,git,github,vercel&theme=dark&perline=8"/>
 
@@ -71,6 +67,7 @@ I build AI systems end to end — from raw data and model architecture to evalua
 
 </details>
 </div>
+
 <div align="center">
 <details open>
 <summary><b>🤖 LLM & GENERATIVE AI</b></summary>
@@ -80,6 +77,7 @@ I build AI systems end to end — from raw data and model architecture to evalua
 
 </details>
 </div>
+
 <div align="center">
 <details open>
 <summary><b>💻 BACKEND & DEPLOYMENT</b></summary>
@@ -89,6 +87,7 @@ I build AI systems end to end — from raw data and model architecture to evalua
 
 </details>
 </div>
+
 <div align="center">
 <details open>
 <summary><b>📊 BI & VISUALIZATION</b></summary>
@@ -103,7 +102,7 @@ I build AI systems end to end — from raw data and model architecture to evalua
 
 <img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/divider.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=500&height=40&lines=%3E+SKILL_TREE.SAV" alt="SKILL_TREE.SAV"/>
+<img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/h_skills.svg" width="100%" alt="h_skills"/>
 
 </div>
 
@@ -119,7 +118,7 @@ I build AI systems end to end — from raw data and model architecture to evalua
 
 <img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/divider.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=500&height=40&lines=%3E+BOSS_PROJECTS.EXE" alt="BOSS_PROJECTS.EXE"/>
+<img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/h_projects.svg" width="100%" alt="h_projects"/>
 
 </div>
 
@@ -203,7 +202,7 @@ Led a 4-person team to build a women's safety app: GPS risk scoring, Guardian Mo
 
 <img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/divider.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=500&height=40&lines=%3E+ACHIEVEMENTS.LOG" alt="ACHIEVEMENTS.LOG"/>
+<img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/h_achievements.svg" width="100%" alt="h_achievements"/>
 
 <table align="center">
 <tr>
@@ -225,34 +224,30 @@ Led a 4-person team to build a women's safety app: GPS risk scoring, Guardian Mo
 
 <img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/divider.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=500&height=40&lines=%3E+STATS.DAT" alt="STATS.DAT"/>
+<img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/h_stats.svg" width="100%" alt="h_stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shravanrt19&show_icons=true&hide_border=true&bg_color=2D0140&title_color=FF206E&icon_color=00F5FF&text_color=C9D1D9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shravanrt19&show_icons=true&hide_border=true&bg_color=2D0140&title_color=FF206E&icon_color=00F5FF&text_color=C9D1D9&cache_seconds=86400" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanrt19&hide_border=true&background=2D0140&ring=00F5FF&fire=FF206E&currStreakLabel=FFD23F&sideLabels=FF206E&dates=C9D1D9" height="170"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanrt19&layout=compact&hide_border=true&bg_color=2D0140&title_color=FF206E&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanrt19&layout=compact&hide_border=true&bg_color=2D0140&title_color=FF206E&text_color=C9D1D9&cache_seconds=86400"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=500&height=40&lines=%3E+TROPHY_ROOM.SAV" alt="TROPHY_ROOM.SAV"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shravanrt19&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=500&height=40&lines=%3E+QUEST_LOG.MAP" alt="QUEST_LOG.MAP"/>
+<img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/h_quest.svg" width="100%" alt="h_quest"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanrt19&theme=react-dark&hide_border=true&bg_color=2D0140&color=FF206E&line=00F5FF&point=FFD23F"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=500&height=40&lines=%3E+PIXEL_SNAKE.GAME" alt="PIXEL_SNAKE.GAME"/>
+<img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/h_snake.svg" width="100%" alt="h_snake"/>
 
 <img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/output/github-contribution-grid-snake.svg" width="100%" alt="snake"/>
 
 <img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/divider.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=500&height=40&lines=%3E+NPC_WISDOM.TXT" alt="NPC_WISDOM.TXT"/>
+<img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/h_wisdom.svg" width="100%" alt="h_wisdom"/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 <img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/divider.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=500&height=40&lines=%3E+GAME_OVER%3F+CONTINUE%3F" alt="GAME_OVER%3F+CONTINUE%3F"/>
+<img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/h_connect.svg" width="100%" alt="h_connect"/>
 
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-SHRAVANRT19-FF2D78?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D0B4E"/></a>
 <a href="https://www.linkedin.com/in/shravan-thakur-706017295/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=2D0B4E"/></a>
