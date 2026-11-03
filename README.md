@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/b39c60bf-a6a1-4989-8a41-cd7556b9ac3e.gif)
+![banner]([https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/b39c60bf-a6a1-4989-8a41-cd7556b9ac3e.gif](https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver.-953012885))
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=26&duration=2500&pause=800&color=FF206E&center=true&vCenter=true&width=700&height=60&lines=SHRAVAN+THAKUR" alt="name"/>
 
