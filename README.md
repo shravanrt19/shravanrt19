@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/chill-mario.png" alt="Chill Mario pixel art by PixelJeff" width="100%" />
+![banner](https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/b39c60bf-a6a1-4989-8a41-cd7556b9ac3e.gif)
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=26&duration=2500&pause=800&color=FF206E&center=true&vCenter=true&width=700&height=60&lines=SHRAVAN+THAKUR" alt="name"/>
 
@@ -305,9 +305,5 @@ open_to:    ["AI/ML collaborations", "Research internships", "Open-source projec
 <br><br>
 
 <i>"The question of whether machines can think is about as relevant as the question of whether submarines can swim." — Edsger W. Dijkstra</i>
-
-<br><br>
-
-<sub>Banner art: <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver.-953012885">"Chill Mario" by PixelJeff</a></sub>
 
 </div>
