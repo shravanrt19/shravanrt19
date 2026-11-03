@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=26&duration=2500&pause=800&color=FF206E&center=true&vCenter=true&width=700&height=60&lines=SHRAVAN+THAKUR" alt="name"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&duration=2800&pause=1200&color=00F5FF&center=true&vCenter=true&width=750&height=90&lines=%3E+AI+ENGINEER;%3E+DOCUMENT+INTELLIGENCE;%3E+LLM+%2B+DEEP+LEARNING;%3E+STATUS%3A+OPEN+TO+WORK" alt="role"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=2800&pause=1200&color=00F5FF&center=true&vCenter=true&width=750&height=90&lines=%3E+AI+ENGINEER;%3E+DOCUMENT+INTELLIGENCE;%3E+LLM+%2B+DEEP+LEARNING;%3E+STATUS%3A+OPEN+TO+WORK" alt="role"/>
 
 <img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/divider.svg" width="100%" height="20" />
 
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FFD23F?style=for-the-badge&logo=shieldsdotio&logoColor=black&labelColor=2D0140" />
 
 <a href="https://www.linkedin.com/in/shravan-thakur-706017295/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=2D0140" /></a>
-<a href="mailto:shravanrt192005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-FF206E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D0140" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-FF206E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D0140" /></a>
 <a href="https://github.com/shravanrt19"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-FFD23F?style=for-the-badge&logo=github&logoColor=black&labelColor=2D0140" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=shravanrt19&color=ff206e&style=for-the-badge&label=PLAYER+VISITS&labelColor=2D0140" />
@@ -242,7 +242,7 @@ Led a 4-person team to build a women's safety app: GPS risk scoring, Guardian Mo
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shravanrt19&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
+  <img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/trophies.svg" width="100%" alt="trophies" />
 </p>
 
 <div align="center">
@@ -252,7 +252,7 @@ Led a 4-person team to build a women's safety app: GPS risk scoring, Guardian Mo
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanrt19&theme=react-dark&hide_border=true&bg_color=2D0140&color=FF206E&line=00F5FF&point=FFD23F" />
+  <img src="https://raw.githubusercontent.com/shravanrt19/shravanrt19/main/assets/activity.svg" width="100%" alt="activity graph" />
 </p>
 
 <div align="center">
@@ -298,7 +298,7 @@ open_to:    ["AI/ML collaborations", "Research internships", "Open-source projec
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+GAME_OVER%3F+CONTINUE%3F" alt="connect"/>
 
 <span style="color:#FFD23F;">✉</span>
-<a href="mailto:shravanrt192005@gmail.com"><img src="https://img.shields.io/badge/GMAIL-SHRAVANRT19-FF206E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D0140" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-SHRAVANRT19-FF206E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D0140" /></a>
 <a href="https://www.linkedin.com/in/shravan-thakur-706017295/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=2D0140" /></a>
 <a href="https://github.com/shravanrt19"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-FFD23F?style=for-the-badge&logo=github&logoColor=black&labelColor=2D0140" /></a>
 
